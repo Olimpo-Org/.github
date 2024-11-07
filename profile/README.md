@@ -20,10 +20,10 @@ Olimpo busca simplificar a organização de comunidades, independentemente do co
 
 ## Tecnologias Utilizadas
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript, Kotlin 
 - **Backend**: Java, Spring
 - **Banco de Dados**: MongoDB, PostGresSQL, Redis
-- **Outras Ferramentas**: Git (para versionamento), Render (para hospedagem Cloud), Aiven (para hospedagem Cloud), Figma (Design)
+- **Outras Ferramentas**: Git (para versionamento), Render (para hospedagem Cloud), Aiven (para hospedagem Cloud), Figma (Design), Firebase (Storage)
 
 ## Instalação e Execução
 
