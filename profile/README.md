@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Olimpo
+# Olimpo 🏛️💙
 
 **Olimpo** é uma plataforma desenvolvida para facilitar a organização e gestão de comunidades e bairros. O projeto tem como objetivo centralizar informações, melhorar a comunicação e promover o engajamento entre moradores e administradores das comunidades.
 
